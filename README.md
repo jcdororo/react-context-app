@@ -2,6 +2,6 @@
 $ cd server   
 $ npm run start
 
-$ cd client
+$ cd client   
 $ npm run start
 
